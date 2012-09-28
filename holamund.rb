@@ -1,3 +1,5 @@
 # holamund.rb
 
-puts 'Hola mund'
+name = gets.chomp
+
+puts "Hola #{name}"
