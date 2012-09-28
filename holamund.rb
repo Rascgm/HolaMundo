@@ -1,3 +1,3 @@
 # holamund.rb
 
-puts 'Hola mundo'
+puts 'Hola mund'
